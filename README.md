@@ -13,7 +13,7 @@ A minimalist, high-impact web presence designed with a "less is more" intentiona
 * **Contact**: Direct gateway for performance and recording inquiries.
 
 ### Technical Credits
-* **Design Philosophy**: Kanso/Swiss-Jazz Minimalist.
+* **Design Philosophy**: Swiss-Jazz Minimalist.
 * **Hosting**: GitHub Pages.
 * **Contact Integration**: Formspree.
 
