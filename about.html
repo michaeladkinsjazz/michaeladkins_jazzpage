@@ -36,7 +36,19 @@
 
   .nav-logo { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 20px; }
   .nav-links a { color: var(--text-secondary); text-decoration: none; margin-left: 30px; font-size: 13px; }
+.nav-logo { 
+  font-family: 'Playfair Display', serif; 
+  font-weight: 700; 
+  font-size: 20px; 
+  text-decoration: none !important; /* This removes the underline */
+  color: black;
+}
 
+/* This ensures it stays clean even after being clicked */
+.nav-logo:visited, .nav-logo:hover, .nav-logo:active {
+  text-decoration: none !important;
+  color: black;
+}
   /* HERO */
   .about-hero {
     padding: 100px 60px;
